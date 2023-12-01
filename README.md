@@ -1,0 +1,2 @@
+# ortho-empower
+ OrthoEmpower is an interactive platform dedicated to empowering individuals affected by orthodontic challenges. Our app provides a supportive space featuring stories of resilience, connects users with relevant treatment providers, and offers a supportive community through forums and links to support groups. Join us in reclaiming confidence and finding strength in your orthodontic journey with OrthoEmpower.
